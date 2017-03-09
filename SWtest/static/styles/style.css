@@ -1,0 +1,9 @@
+body {
+    background-image: url(../static_img/back_img.jpg);
+    padding: 50px;
+}
+.jumbotron {
+    padding: 5em inherit;
+    margin-top: 5%;
+
+}
