@@ -18,7 +18,6 @@
                 right_answers += 1;
             }
             ;
-            console.log(qset, right_answers);
             document.getElementById(parent).style.display = 'none';
             if (document.getElementById('' + (parseInt(parent) + 1))) {
                 document.getElementById('' + (parseInt(parent) + 1)).style.display = 'block';
